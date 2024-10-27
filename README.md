@@ -9,7 +9,7 @@ Whether for official business or email marketing, I will develop your mail serve
 
 For the setup, I will need SSH access to an Ubuntu 24.04 LTS server with at least 8 GB RAM and 200+ GB SSD storage. Additionally, a domain or subdomain will be required for the mail server configuration. I’ll handle advanced DNS pointing as part of the process.
 
-Delivery is within 72 hours, including testing to confirm everything is running smoothly. Related Project: https://youtu.be/8KaPmLM-MEk
+Delivery is within 72 hours, including testing to confirm everything is running smoothly. Related Project https://youtu.be/8KaPmLM-MEk
 
 I offer complete mail server development for $900, payable in two installments. Payments can be made via Wise or USDT.
 
