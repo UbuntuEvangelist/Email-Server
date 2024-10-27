@@ -1,4 +1,4 @@
-# Email Server Setup
+# Email Server Setup Service
 ### Looking for mail server setup without any email block? I’m here to help!
 ### Get your own mail server setup support on [Telegram](https://t.me/LinuxGun​) @LinuxGun
 ### Email: linuxguns@gmail.com
