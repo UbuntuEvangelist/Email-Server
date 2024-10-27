@@ -11,7 +11,7 @@ For the setup, I will need SSH access to an Ubuntu 24.04 LTS server with at leas
 
 Delivery is within 72 hours, including testing to confirm everything is running smoothly. Related Project https://youtu.be/8KaPmLM-MEk
 
-I offer complete mail server development for $999, payable in two installments. Payments can be made via Wise or USDT. If you are a serious clients connect with me. Don't waste your time and my time!
+I offer complete mail server development for $999, payable in two installments. Payments can be made via Wise or USDT. If you are a serious clients connect with me and don't waste your time or my time!
 
 https://gist.github.com/user-attachments/assets/24ca8bde-5521-4cee-a423-4ac73aade8dc
 
