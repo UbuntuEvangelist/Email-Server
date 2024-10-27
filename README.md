@@ -1,5 +1,5 @@
-# Eail Server Development
-Get Your Mail Server Setup Support on [Telegram](https://t.me/LinuxGun​)
+# Email Server Setup
+Get Your Mail Server Setup Support on [Telegram](https://t.me/LinuxGun​) @LinuxGun
 
 Looking for mail server setup without any email block? I’m here to help! Get your support on Telegram, and I’ll set you up your mail server for you.
 
