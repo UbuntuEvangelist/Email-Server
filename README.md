@@ -1,8 +1,6 @@
 # Email Server Setup
-Thank you for your interest in developing your own email server.
-
+### Thank you for your interest in developing your own email server.
 ### Get Your Mail Server Setup Support on [Telegram](https://t.me/LinuxGun​) @LinuxGun
-
 ### Email: linuxguns@gmail.com
 
 I offer complete mail server development for $900, payable in two installments. Payments can be made via Wise or USDT.
