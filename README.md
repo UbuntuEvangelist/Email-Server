@@ -1,8 +1,18 @@
 # Email Server Setup
-Get Your Mail Server Setup Support on [Telegram](https://t.me/LinuxGun​) @LinuxGun
+Thank you for your interest in developing your own email server.
 
-Looking for mail server setup without any email block? I’m here to help! Get your support on Telegram, and I’ll set you up your mail server for you.
+### Get Your Mail Server Setup Support on [Telegram](https://t.me/LinuxGun​) @LinuxGun
 
-I will develop high-performing mail servers, I can ensure your emails hit inboxes every time—with a 10/10 score on Mail Tester for deliver ability.
+### Email: linuxguns@gmail.com
 
-Whether for official business or email marketing, I will develop your mail server that works for you. Reach out on Telegram to get started today!
+I offer complete mail server development for $900, payable in two installments. Payments can be made via Wise or USDT.
+
+I will build a high-performance mail server for you, ensuring top deliverability with a 10/10 score on Mail Tester—your emails will consistently reach inboxes without sending limits or blacklisting issues.
+
+For the setup, I will need SSH access to an Ubuntu 24.04 LTS server with at least 8 GB RAM and 200+ GB SSD storage. Additionally, a domain or subdomain will be required for the mail server configuration. I’ll handle advanced DNS pointing as part of the process.
+
+Delivery is within 72 hours, including testing to confirm everything is running smoothly.
+
+Related Project: https://youtu.be/8KaPmLM-MEk
+
+#mailserver #emailserver #smtp #spf #dkim #dmarc #selfhostedmail #mailserversetup #mailserver #mail #sendemail
