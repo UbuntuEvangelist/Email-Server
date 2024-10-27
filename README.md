@@ -17,4 +17,4 @@ Related Project: https://youtu.be/8KaPmLM-MEk
 
 #mailserver #emailserver #smtp #spf #dkim #dmarc #selfhostedmail #mailserversetup #mailserver #mail #sendemail
 
-https://gist.github.com/user-attachments/assets/a948e3d8-107f-4771-941c-06072e5b03b2
+https://gist.github.com/user-attachments/assets/24ca8bde-5521-4cee-a423-4ac73aade8dc
