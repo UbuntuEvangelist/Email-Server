@@ -3,7 +3,7 @@
 ### Get your own mail server setup support on [Telegram](https://t.me/LinuxGun​) @LinuxGun
 ### Email: linuxguns@gmail.com
 
-I will build a high-performance mail server for you, ensuring top deliverability with a 10/10 score on Mail Tester—your emails will consistently reach inboxes without sending limits or blacklisting issues.
+I will build a high-performance mail server for ensuring top deliverability with a 10/10 score on Mail Tester. Your emails will consistently reach inboxes without sending limits or blacklisting issues.
 
 Whether for official business or email marketing, I will develop your mail server that works for you. Reach out on Telegram to get started today!
 
