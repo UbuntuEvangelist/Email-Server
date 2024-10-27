@@ -15,6 +15,6 @@ Related Project: https://youtu.be/8KaPmLM-MEk
 
 I offer complete mail server development for $900, payable in two installments. Payments can be made via Wise or USDT.
 
-#mailserver #emailserver #smtp #spf #dkim #dmarc #selfhostedmail #mailserversetup #mailserver #mail #sendemail
-
 https://gist.github.com/user-attachments/assets/24ca8bde-5521-4cee-a423-4ac73aade8dc
+
+#mailserver #emailserver #smtp #spf #dkim #dmarc #selfhostedmail #mailserversetup #mailserver #email #mail #sendemail #bulkmailer #massmailer #massmail #mailservers #bulkemail #massmailing #mailservice #mailer #mailgun
