@@ -15,4 +15,7 @@ Delivery is within 72 hours, including testing to confirm everything is running 
 
 Related Project: https://youtu.be/8KaPmLM-MEk
 
+https://gist.github.com/user-attachments/assets/a948e3d8-107f-4771-941c-06072e5b03b2
+
+
 #mailserver #emailserver #smtp #spf #dkim #dmarc #selfhostedmail #mailserversetup #mailserver #mail #sendemail
